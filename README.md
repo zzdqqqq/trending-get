@@ -1,4 +1,4 @@
-# trending-get
+# Trending-get
 
 ## Motivation
 Automatically watching top10 trending articles.
