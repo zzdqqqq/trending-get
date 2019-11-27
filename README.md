@@ -1,9 +1,9 @@
 # trending-get
 
-### Motivation
+## Motivation
 Automatically watching top10 trending articles.
 
-### Configuration
+## Configuration
 Download trending-get.py.
 
 Download chrome driver from [[here](https://chromedriver.chromium.org/downloads)].
@@ -19,14 +19,14 @@ pip install -r requirements.txt
 
 ```
 
-### Usage
+## Usage
 In your bash:
 ```bash
 python3 trending-get.py ["github username"] ["github password"]
 ```
 Wait a couple seconds, you will get the results.
 
-### Help
+## Help
 ```bash
 python3 trending-get.py -h
 ```
