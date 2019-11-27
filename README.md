@@ -1,5 +1,5 @@
 # Trending-get
-
+![GitHub](https://img.shields.io/github/license/zzdqqqq/trending-get)
 ## Motivation
 Automatically watching top10 trending articles.
 
